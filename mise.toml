@@ -1,7 +1,7 @@
 [tools]
 go="1.24"
 
-[tasks.test]
+[tasks.rtt]
 run = """
 #!/bin/bash
 set -e
